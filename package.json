@@ -1,0 +1,24 @@
+{
+  "name": "next-reason-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kyle Goggin <kyle@kylegoggin.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "next": "^9.2.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "reason-react": "^0.7.0"
+  },
+  "devDependencies": {
+    "bs-platform": "^7.0.1",
+    "tailwindcss": "^1.1.4"
+  }
+}
